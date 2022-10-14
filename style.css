@@ -1,0 +1,83 @@
+/*Main settings*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    color: #2B283A;
+    margin: 0px;
+}
+
+/* Header */
+
+header {
+    display: flex;
+    background-color: #F55A5A;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    margin-bottom: 50px;
+}
+
+.website-title {
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: white;
+}
+
+/* Cards */
+
+/* Layout */
+.card {
+    display: flex;
+    margin: 18px 40px;
+    padding: 0px;
+}
+
+.main-img {
+    width: 125px;
+    height: 168px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.info {
+    margin-left: 20px;
+}
+
+.location {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+/* Typography*/
+
+.location-link {
+    color: #918E9B;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+.dates {
+    font-weight: 700;
+    line-height: 12px;
+
+}
+
+
+
