@@ -1,29 +1,22 @@
 # Demo travel journal
-You can visit the webpage with this link: https://sparkling-entremet-e74a8d.netlify.app/
 
-Quick start:
+## Overview
+I made this solo project as a part of the Scrimba Frontend Learning path. I learned how to use React, reusable components and props in order to create the site and it was a fun idea. For those learning React, it's a good example of a way to get started in it.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Features
 
-## Development
+It is a website that shows an example list of places travelled, and includes a link to each location in Google Maps.
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+## Running this project locally
 
-```
-$ yarn watch # npm run watch
-```
+Live version:
 
-## About Scrimba
+[Travel Journal](https://sparkling-entremet-e74a8d.netlify.app/)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+From the repo:
+1. Clone this project locally.
+2. Run ```npm install``` in your bash/command line.
+3. Run ```npm run build``` in your bash/command line.
+4. Enjoy!
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+*Note*: Run Webpack to have webpage update continuously as you edit thr Javascript with ```npm run watch```. Only needed for development purposes.
