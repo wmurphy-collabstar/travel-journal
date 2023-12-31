@@ -19,4 +19,4 @@ From the repo:
 3. Run ```npm run build``` in your bash/command line.
 4. Enjoy!
 
-*Note*: Run Webpack to have webpage update continuously as you edit thr Javascript with ```npm run watch```. Only needed for development purposes.
+*Note*: Run Webpack to have webpage update continuously as you edit the Javascript with ```npm run watch```. Only needed for development purposes.
